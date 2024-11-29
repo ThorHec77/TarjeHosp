@@ -1,0 +1,212 @@
+{
+    "sectores": [
+        {
+            "nombre": "Inform\u00e1tica",
+            "funciones": [
+                "Tec. Inform\u00e1tica",
+                "Tec. Inform\u00e1tica Enc."
+            ]
+        },
+        {
+            "nombre": "Recursos Humanos",
+            "funciones": [
+                "Enc. Of.Recursos Humanos",
+                "Administrativa ",
+                "Encargada Liq. Sueldos"
+            ]
+        },
+        {
+            "nombre": "Compras y Licitaciones",
+            "funciones": [
+                "Enc.Of Compras y Licitaciones",
+                "Administrativa"
+            ]
+        },
+        {
+            "nombre": "Farmacia",
+            "funciones": [
+                "Q.Farmaceutico Enc. Farmacia",
+                "Qu\u00edmico Farmaceutico",
+                "Auxiliar de Farmacia"
+            ]
+        },
+        {
+            "nombre": "Proveeduria y Economato",
+            "funciones": [
+                "Enc. Proveeduria y Economato",
+                "Administrativa"
+            ]
+        },
+        {
+            "nombre": "Direcci\u00f3n",
+            "funciones": [
+                "Directora",
+                "Adjunta Direcci\u00f3n",
+                "Secretaria Direcci\u00f3n"
+            ]
+        },
+        {
+            "nombre": "Administraci\u00f3n",
+            "funciones": [
+                "Administrativa",
+                "Directora Administrativa"
+            ]
+        },
+        {
+            "nombre": "Dpto. Atenci\u00f3n al Usuario",
+            "funciones": [
+                "Enc.Dpto Atenci\u00f3n al Usuario"
+            ]
+        },
+        {
+            "nombre": "Intendencia",
+            "funciones": [
+                "Enc.Serv.Intendencia",
+                "Administrativa",
+                "Chofer"
+            ]
+        },
+        {
+            "nombre": "Lavadero",
+            "funciones": [
+                "Auxiliar de Servicio",
+                "Costurera"
+            ]
+        },
+        {
+            "nombre": "Mantenimiento",
+            "funciones": [
+                "Enc.Serv.Mantenimiento",
+                "Oficial Mantenimiento"
+            ]
+        },
+        {
+            "nombre": "Oficina de Afiliaciones",
+            "funciones": [
+                "Administrativa"
+            ]
+        },
+        {
+            "nombre": "Reg.Medicos-Coord.Estudios",
+            "funciones": [
+                "Enc.Reg.Medicos-Coord.Estudios",
+                "Administrativa",
+                "Administrativo"
+            ]
+        },
+        {
+            "nombre": "Servicio de Emergencia",
+            "funciones": [
+                "Obstetra-Partera"
+            ]
+        },
+        {
+            "nombre": "Puerta de Emergencia",
+            "funciones": [
+                "M\u00e9dico General",
+                "M\u00e9dico Pediatra",
+                "Jefe M\u00e9dico Emergencia",
+                "M\u00e9dico General Supl."
+            ]
+        },
+        {
+            "nombre": "Gerencia Financiera",
+            "funciones": [
+                "Gerente Financiero",
+                "Cra.Patrimonial y Costos",
+                "Enc. Tesoreria",
+                "Administrativa",
+                "Recaudadora"
+            ]
+        },
+        {
+            "nombre": "Salud Mental",
+            "funciones": [
+                "Administrativa",
+                "Licenciado en Psicolog\u00eda",
+                "Lic. en Trabajo Social",
+                "M\u00e9dico Psiquiatra",
+                "M\u00e9dico Psiquiatra Infantil",
+                "Auxiliar de Enfermeria"
+            ]
+        },
+        {
+            "nombre": "Dpto.de Enfermeria",
+            "funciones": [
+                "Auxiliar de Servicio",
+                "Auxiliar de Enfermeria",
+                "Lic. en Enf. Operativa",
+                "Lic. en Enf. Supervisora",
+                "Lic. en Enf.Enc.Dpto",
+                "Lic.en Inst. Quir\u00fargica",
+                "Lic. en Enf. Block Quir\u00fargico",
+                "Circulante",
+                "Administrativa"
+            ]
+        },
+        {
+            "nombre": "Policlinica",
+            "funciones": [
+                "Medico General",
+                "Medico Reumatologo",
+                "M\u00e9dico Ginec\u00f3logo",
+                "M\u00e9dico Anestesista",
+                "Otorrinolaringologo",
+                "Medico Endocrinologo",
+                "M\u00e9dico Traumat\u00f3logo",
+                "M\u00e9dico Cirujano",
+                "Cirujano Pl\u00e1stico",
+                "M\u00e9dico Nefr\u00f3logo",
+                "M\u00e9dico Neum\u00f3logo",
+                "M\u00e9dico Pediatra",
+                "M\u00e9dico Neur\u00f3logo",
+                "M\u00e9dico Cardi\u00f3logo",
+                "Lic. en Fisioterapia",
+                "M\u00e9dico Geriatra",
+                "M\u00e9dico Dermat\u00f3loga"
+            ]
+        },
+        {
+            "nombre": "Internaci\u00f3n",
+            "funciones": [
+                "M\u00e9dico Internista"
+            ]
+        },
+        {
+            "nombre": "Laboratorio Central",
+            "funciones": [
+                "Administrativa",
+                "Lic. en Laboratorio",
+                "Aux.Enfermeria",
+                "Aux. Servicio",
+                "Dir.T\u00e9cnico Med.Laborat.",
+                "M\u00e9d. Laboratorista"
+            ]
+        },
+        {
+            "nombre": "Laboratorio Microbiolog\u00eda",
+            "funciones": [
+                "Administrativa",
+                "Lic. En Laboratorio",
+                "M\u00e9dico Microbi\u00f3loga"
+            ]
+        },
+        {
+            "nombre": "Alimentacion",
+            "funciones": [
+                "Enc.Serv.Alimentacion",
+                "Licenciada en Nutricion",
+                "Aux. de Servicio",
+                "Cocinero",
+                "Cocinera",
+                "Administrativa"
+            ]
+        },
+        {
+            "nombre": "Administracion",
+            "funciones": [
+                "FACILITADOR"
+            ]
+        }
+    ]
+}

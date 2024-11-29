@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="./img/presentacion-grafica-flecha-arriba.png" type="image/x-icon">
+    <title>Panel de control</title>
+    <!-- Incluir Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Barra de navegación -->
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0d47a1; border-bottom: 1px solid #e0e0e0;">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="https://hospitaldecanelones.com/">
+                <img src="/imagenes/logo-nuevo-hc.png" width="120" height="38" alt="Hospital de Canelones" class="img-fluid" style="border: 1px solid #fff; background-color: #fff; border-radius: 5px;">
+            </a>
+            <a class="navbar-brand" href="https://www.asse.com.uy/home">
+                <img src="/imagenes/asse_capacita.png" width="150" height="38" alt="ASSE Capacita" class="img-fluid" style="border: 1px solid #fff; background-color: #fff; border-radius: 5px;">
+            </a>
+        </div>
+    </nav>
+
+
+    <!-- Contenido principal -->
+    <div class="container mt-4">
+        <div class="d-flex justify-content-between align-items-center">
+            <h1>Tarjetas Guardadas</h1>
+            <button class="btn btn-primary" onclick="window.location.href='sectores.html'">Editar Sectores</button>
+        </div>
+        
+        <!-- Contenedor de tarjetas -->
+        <div class="row" id="tarjetas-container"></div> <!-- Aquí se mostrarán las tarjetas -->
+
+        <!-- Contenedor de paginación -->
+        <nav>
+            <ul class="pagination justify-content-center" id="paginacion-container"></ul>
+        </nav>
+
+        <!-- Botón para imprimir las tarjetas seleccionadas -->
+        <button class="btn btn-primary mt-3" onclick="imprimirSeleccionadas()">Imprimir Seleccionadas</button>
+
+
+
+        <!-- Paginación -->
+        <nav aria-label="Page navigation" class="mt-4">
+        <ul class="pagination justify-content-center" id="paginacion-container"></ul>
+        </nav>
+    </div>
+    <!-- Cargar el script de JavaScript -->
+    <script src="cargaTarjetas.js"></script>
+</body>
+</html>
