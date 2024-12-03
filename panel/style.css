@@ -40,3 +40,7 @@ h1 {
     color: blue; /* Color del texto negro para los números no seleccionados */
     text-decoration: none; /* Opcional: quita el subrayado */
 }
+
+.bg-custom {
+    background-color: #00469c;
+}

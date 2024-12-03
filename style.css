@@ -194,3 +194,7 @@ h3 {
     width: 340px;
     object-fit: cover; /* Asegura que la imagen mantenga su proporción */
 }
+
+.bg-custom {
+    background-color: #00469c;
+}
